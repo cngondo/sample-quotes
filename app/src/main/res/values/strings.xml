@@ -16,11 +16,12 @@
     <string name="slide_4_desc">It\'s time you stop doing it and start living it</string>
 
     <string name="slide_5_desc">Always hold your head up, NO MATTER WHAT</string>
-    
+
     <string name="slide_6_desc">It\'s not about how you go down, but how you get beck up</string>
 
     <string name="slide_7_desc">You have to see it to become it</string>
 
     <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
     <string name="play_again">Play Again</string>
+    <string name="title">Ngondo\'s Quotes</string>
 </resources>
