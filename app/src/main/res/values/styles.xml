@@ -12,4 +12,10 @@
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.ActionBar"></style>
     
     <style name="AppTheme.PopUpOverlay" parent="ThemeOverlay.AppCompat.Light"></style>
+
+    <style name="BackgroundImageView">
+        <item name="android:alpha">0.8</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:src">@drawable/bg_motivation</item>
+    </style>
 </resources>
