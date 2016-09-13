@@ -29,6 +29,8 @@ public class SplashActivity extends AppCompatActivity {
                 startActivity(new Intent(SplashActivity.this, WelcomeActivity.class));
             }
         }, SPLASH_INTERVAL);
+
+
     }
 
     //base context of the custom fonts
