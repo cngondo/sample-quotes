@@ -24,6 +24,7 @@
         tools:layout_editor_absoluteY="0dp"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
-        android:id="@+id/textView" />
+        android:id="@+id/textView"
+        fontPath="fonts/robotolightcondensed.ttf"/>
 
 </RelativeLayout>
