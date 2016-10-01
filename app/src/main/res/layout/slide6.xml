@@ -25,6 +25,7 @@
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
         android:id="@+id/down"
-        android:padding="@dimen/quote_padding"/>
+        android:padding="@dimen/quote_padding"
+        fontPath="fonts/robotolightcondensed.ttf"/>
 
 </RelativeLayout>
